@@ -42,9 +42,14 @@ h3{text-align: left;}
     text-align: left;
 }
 .background{
-    background-image:url("/images/bg-header-desktop.png");
+    width: 100%;
+    position:absolute;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.bgg{
+    height: 100%;
+    width: 100%;
 }
 .btn{
     border: none;
